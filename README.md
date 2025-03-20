@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-[Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 Here are some ideas to get you started:
