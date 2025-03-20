@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Amanda! 
 
-<!--
-**Amanda-Elks/Amanda-Elks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+[Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 Here are some ideas to get you started:
 
